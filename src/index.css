@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+
+.cash{
+    font-family: 'Raleway', sans-serif;
+}
+.app{
+    font-family: 'Raleway', sans-serif;
+}
+
+.navitem{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.footertext{
+    font-family: 'Mulish', sans-serif;
+}
